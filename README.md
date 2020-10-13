@@ -1,3 +1,5 @@
 # magnum-opus
 
-project for Kami inc.
+Project for Kami inc.
+
+Team members: Alex Pulido
